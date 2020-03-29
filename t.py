@@ -1,4 +1,3 @@
-
-qa
+print ("hello world")
 
 
